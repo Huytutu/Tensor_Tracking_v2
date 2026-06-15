@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+matplotlib
+networkx
+scipy
+mne
+ruptures
+h5py
