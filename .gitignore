@@ -1,0 +1,20 @@
+# Bỏ qua RAW Data và file kết quả lớn
+data/
+outputs/
+*.npy
+*.npz
+*.mat
+*.fif
+*.set
+*.fdt
+
+# Bỏ qua các file môi trường và cache của Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
